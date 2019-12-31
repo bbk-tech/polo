@@ -1,0 +1,82 @@
+ .icons1{
+     background-color: #ffbf00 ;
+     margin:12px;
+     margin-top: 10px;
+     border-radius: 50%;
+     background-image: url("img/water.png");
+     height: 100px;
+     width:100px;
+     background-repeat: no-repeat;
+     text-align: center;
+     object-position: center;
+     background-position-x: center;
+     background-position-y: center;
+     }
+     .icons2{
+        background-color: #ffbf00 ;
+        margin:12px;
+        margin-top: 10px;
+        border-radius: 50%;
+        background-image: url("img/fast-delivery.png");
+        height: 100px;
+        width:100px;
+        background-repeat: no-repeat;
+        text-align: center;
+        object-position: center;
+        background-position-x: center;
+        background-position-y: center;
+
+     }
+     .icons3{
+        background-color: #ffbf00 ;
+        margin:12px;
+        margin-top: 10px;
+        border-radius: 50%;
+        background-image: url("img/lunch-box.png");
+        height: 100px;
+        width:100px;
+        background-repeat: no-repeat;
+        text-align: center;
+        object-position: center;
+        background-position-x: center;
+        background-position-y: center;
+
+     }
+     .icons4{
+        background-color: #ffbf00 ;
+        margin:12px;
+        margin-top: 10px;
+        border-radius: 50%;
+        background-image: url("img/delivery-man.png");
+        height: 100px;
+        width:100px;
+        background-repeat: no-repeat;
+        text-align: center;
+        object-position: center;
+        background-position-x: center;
+        background-position-y: center;
+
+     }
+     .icons5{
+        background-color: #ffbf00 ;
+        margin:12px;
+        margin-top: 10px;
+        border-radius: 50%;
+        background-image: url("img/archive.png");
+        height: 100px;
+        width:100px;
+        background-repeat: no-repeat;
+        text-align: center;
+        object-position: center;
+        background-position-x: center;
+        background-position-y: center;
+
+     }
+     .row{
+         margin-right: 0px !important;
+         margin-left: 0px !important;
+     }
+     .container-fluid{
+         padding-left: 0px !important;
+         padding-right: 0px !important;
+     }
